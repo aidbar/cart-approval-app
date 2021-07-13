@@ -2,11 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\components",
+    "\\lib",
     "\\pages",
+    "\\pages\\api",
+    "\\posts",
     "\\public",
     "\\public\\images",
     "\\styles"
   ],
-  "SelectedNode": "\\pages\\index.js",
+  "SelectedNode": "\\pages\\api\\hello.js",
   "PreviewInSolutionExplorer": false
 }
